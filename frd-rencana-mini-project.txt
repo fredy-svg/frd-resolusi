@@ -1,0 +1,6 @@
+RENCANA MINI PROJECT FRD
+
+- Navigasi
+- Hero
+- Konten/Main
+- Gallery
