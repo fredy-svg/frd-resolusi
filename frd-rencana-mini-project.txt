@@ -4,5 +4,6 @@ RENCANA MINI PROJECT FRD
  * Home
  * About
 - Hero
+- Product
 - Konten/Main
 - Gallery
