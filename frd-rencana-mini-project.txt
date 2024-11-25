@@ -1,6 +1,8 @@
 RENCANA MINI PROJECT FRD
 
 - Navigasi
+ * Home
+ * About
 - Hero
 - Konten/Main
 - Gallery
